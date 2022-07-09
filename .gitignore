@@ -1,5 +1,5 @@
-.cfg
-.env
+*.cfg
+*.env
 Include/
 Lib/
 Scripts/
